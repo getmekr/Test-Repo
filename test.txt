@@ -2,3 +2,4 @@ test file
 this is
 my file
 updated
+final
